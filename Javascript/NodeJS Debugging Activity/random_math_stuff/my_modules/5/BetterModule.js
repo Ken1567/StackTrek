@@ -41,6 +41,4 @@ function operation_1 (firstVal, secondVal, thirdVal)
           }
       }
   }
-  console.log(operation_1(3,2,4));
-  console.log(operation_1(4,3,2));
-console.log(operation_1(9,6,19));
+module.exports = operation_1;
